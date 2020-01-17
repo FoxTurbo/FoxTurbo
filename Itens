@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name> [COLOR white]TV ONLINE[/COLOR] </name>
+<name> [COLOR green]•[/COLOR] [COLOR white]TV ONLINE[/COLOR] </name>
 <thumbnail>https://ia601502.us.archive.org/1/items/lancamentos_20200117/tv%20online.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601408.us.archive.org/8/items/fanart_20200114/fanart.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES[/COLOR</name>
+<name>[COLOR green]•[/COLOR] [COLOR white]FILMES[/COLOR]</name>
 <thumbnail>https://ia801502.us.archive.org/1/items/lancamentos_20200117/filmes.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601408.us.archive.org/8/items/fanart_20200114/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]SÉRIES[/COLOR</name>
+<name>[COLOR green]•[/COLOR] [COLOR white]SÉRIES[/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/1/items/lancamentos_20200117/s%C3%A9ries.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601408.us.archive.org/8/items/fanart_20200114/fanart.jpg</fanart>
